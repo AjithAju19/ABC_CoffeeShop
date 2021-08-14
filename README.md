@@ -2,7 +2,7 @@
 
 Problem Statement:
 
-Design a simple android application for ABC Coffee Shop which has one edittext, three radio buttons, two checkboxes and two buttons.Perform adequate listener events to display the order details in a Toast message.
+Design a simple android application for ABC Coffee Shop which has one edittext field, three radio buttons, two checkboxes and two buttons.Perform adequate listener events to display the order details in a Toast message.
 
 Sample output:
 
