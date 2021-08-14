@@ -1,4 +1,4 @@
-# ABC_CoffeeShop
+# ABC-CoffeeShop
 
 Problem Statement:
 
